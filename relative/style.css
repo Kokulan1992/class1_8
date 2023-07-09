@@ -1,0 +1,17 @@
+.relative{
+    position: relative;
+    background-color: rgb(211, 215, 15);
+    right: 90px;
+    top: 20px;
+    /* right: 300px; */
+}
+
+.mo-relative{
+    position: relative;
+    background-color: blue;
+    width: 100%;
+}
+
+body{
+    /* width: 2000px; */
+}

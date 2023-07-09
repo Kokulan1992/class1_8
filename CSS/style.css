@@ -1,0 +1,29 @@
+.title-1{
+    color: aqua;
+    background-color: brown;
+
+}
+#image-1{
+    padding: 15px;
+    background-color: black;
+}
+
+/* type selector */
+
+h4{
+    color: blue;
+
+}
+
+body > p {
+    background-color: blueviolet;
+}
+
+.t1,.t2,.t3{
+    background-color: brown;
+}
+.box_model{
+    padding: 15px;
+    border: 20px solid brown;
+    margin:40px;
+}
